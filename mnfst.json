@@ -1,0 +1,36 @@
+{
+  "short_name": "NiiHen",
+  "name": "Download Hentai Sub Indo",
+  "icons": [
+	{
+    "src": "https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s128-c/icon.png",
+    "type": "image/png",
+    "sizes": "128x128"
+	}, 
+	{
+    "src": "https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s144-c/icon.png",
+    "type": "image/png",
+    "sizes": "144x144"
+	}, 
+	{
+    "src": "https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s152-c/icon.png",
+    "type": "image/png",
+    "sizes": "152x152"
+	}, 
+    {
+      "src": "https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s192-c/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s512-c/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://niihen.blogspot.com/?utm_source=homescreen",
+  "background_color": "#e97991",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#e97991"
+}
